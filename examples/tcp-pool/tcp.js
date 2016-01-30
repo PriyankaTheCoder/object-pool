@@ -5,7 +5,7 @@ var tcp = function(configuration){
 };
 
 
-var configuration = {subnet_mask:'255.255.0.0',connection_timeout:'1 minute',protocol_version:'IPV4'};
+var configuration = {subnet_mask:'255.255.0.0',connection_timeout:30000,protocol_version:'IPV4'};
 
 exports.constructor = tcp;
 exports.configuration = configuration;
