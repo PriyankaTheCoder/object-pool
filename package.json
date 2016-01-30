@@ -1,0 +1,35 @@
+{  
+   "name":"object-pool",
+   "description":"facilitates to create single type of objects and use them on demand",
+   "version":"1.1.0",
+   "main":"index.js",
+   "scripts":{  
+	   "start":"node index.js"
+	},
+   "keywords":[  
+      "object-pool",
+      "objectpool",
+      "pool"
+   ],
+   "author":{
+	   		"name":"Priyanka Guha",
+	   		"email":"priyankaguha.2012@gmail.com"
+   },
+   "license":"",
+   "repository":{  
+      "type":"git",
+      "url":""
+   },
+   "homepage":"",
+   "devDependencies":{
+	   "mocha":"2.3.4"
+   },
+   "files":[  
+      "LICENSE",
+      "README.md",
+      "index.js",
+      "lib/",
+      "test/",
+      "examples/"
+   ]
+}
