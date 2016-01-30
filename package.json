@@ -12,17 +12,17 @@
       "pool"
    ],
    "author":{
-	   		"name":"Priyanka Guha",
-	   		"email":"priyankaguha.2012@gmail.com"
+	 "name":"Priyanka Guha",
+	 "email":"priyankaguha.2012@gmail.com"
    },
    "license":"",
    "repository":{  
       "type":"git",
-      "url":""
+      "url":"https://github.com/PriyankaTheCoder/object-pool"
    },
    "homepage":"",
    "devDependencies":{
-	   "mocha":"2.3.4"
+	  "mocha":"2.3.4"
    },
    "files":[  
       "LICENSE",
