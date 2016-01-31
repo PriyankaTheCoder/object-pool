@@ -1,5 +1,5 @@
 {  
-   "name":"object-pool",
+   "name":"node-object-pool",
    "description":"facilitates to create single type of objects and use them on demand",
    "version":"1.1.0",
    "main":"index.js",
