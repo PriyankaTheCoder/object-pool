@@ -1,4 +1,4 @@
-#OBJECT POOL
+# OBJECT POOL
 
 `Object Pool will give you the facility to create objects at your will and use them whenever required.`
 
@@ -19,13 +19,13 @@
 >$ npm install node-object-pool
 
 
-##Pool Information
+## Pool Information
 
-####PoolClient
+#### PoolClient
 
 Used to create an object pool and access
 
-######Methods:
+###### Methods:
 
 **1. createPool(nameOfPool,TypeOfObject,config,min?,max?,timeout?,refreshObject?)**
 
@@ -128,7 +128,7 @@ Parameters:
 
 
 
-######Events:
+###### Events:
 
 If you are not using any callback function while acquiring,releasing or draining the objects. Then you should add an eventListener to these event types to get back response once you complete the operation.
 
